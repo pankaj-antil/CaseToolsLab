@@ -1,0 +1,15 @@
+Version Control Tools :
+1) Git & Github
+2) SVN
+3) Project Locker
+
+1) Git & Github Commands :
+
+1) git config --global user.email "     "
+2) git config --global user.name  "      "
+3) git init
+4) git add [filename] || -A
+5) git commit -m "msg"
+6) git remote add origin reponame 
+7) git push origin master
+8) git pull origin master
